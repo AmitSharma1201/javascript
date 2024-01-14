@@ -43,11 +43,11 @@ console.log(str3);
 //console.log(+true);
 //console.log(1+"");
 
-let gameCounter = 100;
-gameCounter++;
-console.log(gameCounter);
+// let gameCounter = 100;
+// gameCounter++;
+// console.log(gameCounter);
 
-
+console.log(1 + "33");
 
 
 
