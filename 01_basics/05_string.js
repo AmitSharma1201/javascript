@@ -18,6 +18,7 @@ const gameName = new String('hitesh-hc-com')
 const newString = gameName.substring(0, 4)
 console.log(newString);
 
+
 const newStringOne = "  hitesh  "
 console.log(newStringOne);
 console.log(newStringOne.trim());
@@ -25,9 +26,11 @@ console.log(newStringOne.trim());
 const anotherString = gameName.slice(-8,4);
 console.log(anotherString);
 
-const url = "https://hitesh.com/hitesh%20choudhary";
-console.log(url.replace('%20','-'));
-console.log(url.includes('hitesh'));
+//***********************commit************//
+//const url = "https://hitesh.com/hitesh%20choudhary";
+//console.log(url.replace('%20','-'));
+//console.log(url.includes('hitesh'));
 
-console.log(gameName.split('-'));
+//console.log(gameName.split('-'));
+
 
