@@ -3,6 +3,7 @@ let index = 0
 //     console.log(Value of index is ${index});
 //     index = index + 2
 // }
+// kya baat h ve jatta kya baat h
 
 let myArray = ['flash', "batman", "superman"]
 
